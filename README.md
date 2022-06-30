@@ -1,21 +1,8 @@
-![Dev goyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&theme=radical)
 
+<img src="https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&theme=radical" width= "100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgbkn&layout=compact" width= "100%">
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgbkn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-- 👋 Hi, I’m @dgbkn
-- 👀 I’m interested in ...A.I , PHP < > DATA
-- 🌱 I’m currently learning new ThinGs
-- 💞️ I’m looking to collaborate on Some Great Ideas
-
-
-- 📫 How to reach me ...
-Just Send me A request on github
-<!---
-dgbkn/dgbkn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+    <a href="https://github.com/Kalitsune"> <img src="https://img.shields.io/github/followers/Kalitsune?label=Follow&logo=github&color=7289da&style=for-the-badge"></a>
+    <a href="https://discord.com/"> <img src="https://dcbadge.vercel.app/api/shield/352123793096835082?theme=default-inverted"></a>
+</p>
