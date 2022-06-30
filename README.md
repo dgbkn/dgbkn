@@ -22,10 +22,10 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 
 ## Contact me 🔭
 <span>
-   <a href="https://telegram.dog/dgbkn"> <img src="https://simpleicons.vercel.app/telegram/1B4F72" width="40px" > </a>
-   <a href="https://api.whatsapp.com/send?phone=17865445756"> <img src="https://simpleicons.vercel.app/whatsapp/145A32" width="40px" > </a>
-   <a href="https://www.linkedin.com/in/dev-goyal-041512203/"> <img src="https://simpleicons.vercel.app/linkedin/0A66C2" width="40px" > </a>
-   <a href="https://twitter.com/devgbkn"> <img src="https://simpleicons.vercel.app/twitter/0F9AFB" width="40px" > </a>
+   <a href="https://telegram.dog/dgbkn"> <img src="https://simpleicons.vercel.app/telegram/1B4F72" width="10%" > </a>
+   <a href="https://api.whatsapp.com/send?phone=17865445756"> <img src="https://simpleicons.vercel.app/whatsapp/145A32" width="10%" > </a>
+   <a href="https://www.linkedin.com/in/dev-goyal-041512203/"> <img src="https://simpleicons.vercel.app/linkedin/0A66C2" width="10%" > </a>
+   <a href="https://twitter.com/devgbkn"> <img src="https://simpleicons.vercel.app/twitter/0F9AFB" width="10%" > </a>
 </span>
 
 <br>
@@ -46,26 +46,26 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 
 ### ⚙️ Languages & Frameworks
 <span>
-    <img src="https://simpleicons.vercel.app/python/3776AB" width="50px" >
-    <img src="https://simpleicons.vercel.app/nodedotjs/339933" width="50px" >
-    <img src="https://simpleicons.vercel.app/javascript/F7DF1E" width="50px" >
-    <img src="https://simpleicons.vercel.app/css3/1572B6" width="50px" >
-    <img src="https://simpleicons.vercel.app/html5/E34F26" width="50px" >
-    <img src="https://simpleicons.vercel.app/php/3776AB" width="50px" >
-    <img src="https://simpleicons.vercel.app/phpmyadmin/24292F" width="50px" >
+    <img src="https://simpleicons.vercel.app/python/3776AB" width="10%" >
+    <img src="https://simpleicons.vercel.app/nodedotjs/339933" width="10%" >
+    <img src="https://simpleicons.vercel.app/javascript/F7DF1E" width="10%" >
+    <img src="https://simpleicons.vercel.app/css3/1572B6" width="10%" >
+    <img src="https://simpleicons.vercel.app/html5/E34F26" width="10%" >
+    <img src="https://simpleicons.vercel.app/php/3776AB" width="10%" >
+    <img src="https://simpleicons.vercel.app/phpmyadmin/24292F" width="10%" >
 </span>
 
 <br>
 
 ### 🔨Tools
 <span>
-    <img src="https://simpleicons.vercel.app/adobe/FF0000" width="50px" >
-    <img src="https://simpleicons.vercel.app/blender/F5792A" width="50px" >
-    <img src="https://simpleicons.vercel.app/jetbrains/000000" width="50px" >
-    <img src="https://simpleicons.vercel.app/visualstudiocode/007ACC" width="50px" >
-    <img src="https://simpleicons.vercel.app/git/F05032" width="50px" >
-    <img src="https://simpleicons.vercel.app/github/00000#gh-dark-mode-only" width="50px" >
-    <img src="https://simpleicons.vercel.app/docker/2496ED" width="50px" >
+    <img src="https://simpleicons.vercel.app/adobe/FF0000" width="10%" >
+    <img src="https://simpleicons.vercel.app/blender/F5792A" width="10%" >
+    <img src="https://simpleicons.vercel.app/jetbrains/000000" width="10%" >
+    <img src="https://simpleicons.vercel.app/visualstudiocode/007ACC" width="10%" >
+    <img src="https://simpleicons.vercel.app/git/F05032" width="10%" >
+    <img src="https://simpleicons.vercel.app/github/00000#gh-dark-mode-only" width="10%" >
+    <img src="https://simpleicons.vercel.app/docker/2496ED" width="10%" >
 </span>
 
 <br>
