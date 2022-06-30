@@ -42,6 +42,7 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
     <img src="https://simpleicons.vercel.app/javascript/F7DF1E" width="50px" >
     <img src="https://simpleicons.vercel.app/css3/1572B6" width="50px" >
     <img src="https://simpleicons.vercel.app/html5/E34F26" width="50px" >
+    <img src="https://simpleicons.vercel.app/php/E34F26" width="50px" >
 </span>
 
 <br>
