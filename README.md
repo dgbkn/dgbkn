@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/PqoavY9.gif" width= "50%">
+<img src="https://i.imgur.com/PqoavY9.gif" width= "10%">
 
 
 
@@ -12,7 +12,6 @@
 # Hi `Mr./Mrs.` <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
 My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 
-<br>
 
 ## About Me 👒
 
