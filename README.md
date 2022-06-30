@@ -24,7 +24,7 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 <br>
 
 ## 📊 Github stats
-<img src="https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&theme=radical" width= "30%">
+<img src="https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&theme=radical" width= "50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgbkn&layout=compact" width= "30%">
 <br>
 
