@@ -38,8 +38,6 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 <br>
 </p>
 
-
-## 🛠️ Languages & Tools
 <!--browse icons: https://simpleicons.org/-->
 <!--use icons: https://simpleicons.vercel.app/[icon name]/[color]-->
 <!--get hex easily: https://github.com/simple-icons/simple-icons/blob/develop/_data/simple-icons.json-->
