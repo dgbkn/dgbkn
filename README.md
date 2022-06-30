@@ -9,10 +9,7 @@
 # Hi `Mr./Mrs.` <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
 My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 
-
 ## About Me 👒
-
-
 💬 ੭ㆍI love talking with people so feel free to contact me 😜
 <br>
 🌸 ੭ㆍTECH is my first Love
@@ -42,7 +39,9 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
     <img src="https://simpleicons.vercel.app/javascript/F7DF1E" width="50px" >
     <img src="https://simpleicons.vercel.app/css3/1572B6" width="50px" >
     <img src="https://simpleicons.vercel.app/html5/E34F26" width="50px" >
-    <img src="https://simpleicons.vercel.app/php/E34F26" width="50px" >
+    <img src="https://simpleicons.vercel.app/php/3776AB" width="50px" >
+    <img src="https://simpleicons.vercel.app/php/3776AB" width="50px" >
+    <img src="https://simpleicons.vercel.app/phpmyadmin/3776AB" width="50px" >
 </span>
 
 <br>
