@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/PqoavY9.gif" width= "10%">
+<img src="https://i.imgur.com/PqoavY9.gif" width= "30%">
 
 
 
@@ -26,9 +26,11 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 <br>
 
 ## 📊 Github stats
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&theme=radical" width= "50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgbkn&layout=compact" width= "30%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgbkn&layout=compact" width= "40%">
 <br>
+</p>
 
 
 ## 🛠️ Languages & Tools
