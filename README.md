@@ -20,11 +20,16 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 <br>
 
 
-## Find Me at 🔭
+## Contact me 🔭
 <span>
-   <a href="https://telegram.dog/dgbkn"> <img src="https://simpleicons.vercel.app/telegram/1B4F72" width="30px" > </a>
+   <a href="https://telegram.dog/dgbkn"> <img src="https://simpleicons.vercel.app/telegram/1B4F72" width="40px" > </a>
+   <a href="https://api.whatsapp.com/send?phone=17865445756"> <img src="https://simpleicons.vercel.app/whatsapp/145A32" width="40px" > </a>
+   <a href="https://www.linkedin.com/in/dev-goyal-041512203/"> <img src="https://simpleicons.vercel.app/linkedin/0A66C2" width="40px" > </a>
+   <a href="https://twitter.com/devgbkn"> <img src="https://simpleicons.vercel.app/twitter/0F9AFB" width="40px" > </a>
 </span>
 
+<br>
+<br>
 ## 📊 Github stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&theme=radical" width= "50%">
