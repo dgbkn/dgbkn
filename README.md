@@ -30,6 +30,7 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 
 <br>
 <br>
+
 ## 📊 Github stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&theme=radical" width= "50%">
