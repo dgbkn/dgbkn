@@ -18,19 +18,14 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 
 
 💬 ੭ㆍI love talking with people so feel free to contact me 😜
-
-🌸 ੭ㆍmy pronouns are `she/her`
- 
+🌸 ੭ㆍTECH is my first Love
 🪐 ੭ㆍI'm Exploring New Things like Artifical Intellegence,WEB3,BlockChain
-  
 💫 ੭ㆍI'm love Nature
-
-<br>
 <br>
 
 ## 📊 Github stats
-<img src="https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&theme=radical" width= "50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgbkn&layout=compact" width= "50%">
+<img src="https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&theme=radical" width= "30%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgbkn&layout=compact" width= "30%">
 <br>
 
 
@@ -46,7 +41,6 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
     <img src="https://simpleicons.vercel.app/javascript/F7DF1E" width="50px" >
     <img src="https://simpleicons.vercel.app/css3/1572B6" width="50px" >
     <img src="https://simpleicons.vercel.app/html5/E34F26" width="50px" >
-    <img src="https://simpleicons.vercel.app/mariadb/003545" width="50px" >
 </span>
 
 <br>
@@ -58,8 +52,7 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
     <img src="https://simpleicons.vercel.app/jetbrains/000000" width="50px" >
     <img src="https://simpleicons.vercel.app/visualstudiocode/007ACC" width="50px" >
     <img src="https://simpleicons.vercel.app/git/F05032" width="50px" >
-    <img src="https://simpleicons.vercel.app/github/ffffff#gh-dark-mode-only" width="50px" >
-    <img src="https://simpleicons.vercel.app/gitkraken/179287" width="50px" >
+    <img src="https://simpleicons.vercel.app/github/00000#gh-dark-mode-only" width="50px" >
     <img src="https://simpleicons.vercel.app/docker/2496ED" width="50px" >
 </span>
 
