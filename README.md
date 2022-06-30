@@ -18,8 +18,11 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 
 
 💬 ੭ㆍI love talking with people so feel free to contact me 😜
+<br>
 🌸 ੭ㆍTECH is my first Love
+<br>
 🪐 ੭ㆍI'm Exploring New Things like Artifical Intellegence,WEB3,BlockChain
+<br>
 💫 ੭ㆍI'm love Nature
 <br>
 
