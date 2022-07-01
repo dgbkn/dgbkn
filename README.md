@@ -1,7 +1,8 @@
 <p align="center">
     <img src="https://i.imgur.com/PqoavY9.gif" width= "30%">
     <a href="https://github.com/dgbkn"> <img src="https://img.shields.io/github/followers/dgbkn?label=Follow&logo=github&color=7289da&style=for-the-badge"></a>
-    <a href="https://discord.com/"> <img src="https://dcbadge.vercel.app/api/shield/776368125040918538?theme=default-inverted"></a>
+       <a href="https://discord.com/"> <img src="https://dcbadge.vercel.app/api/shield/776368125040918538?theme=default-inverted"></a>
+ <a href="https://discord.com/"> <img src="https://dcbadge.vercel.app/api/shield/776368125040918538?theme=default-inverted"></a>
 </p>
 
 
@@ -33,9 +34,10 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 
 ## 📊 Github stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&theme=radical" width= "50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgbkn&layout=compact" width= "40%">
+<img src="https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&theme=radical" width= "80%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgbkn&layout=compact" width= "80%">
 <br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dgbkn&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </p>
 
 <!--browse icons: https://simpleicons.org/-->
