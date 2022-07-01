@@ -36,8 +36,10 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&theme=radical" width= "80%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgbkn&layout=compact" width= "80%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dgbkn&date_format=j%20M%5B%20Y%5D" width= "100%">
+
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dgbkn&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 </p>
 
 <!--browse icons: https://simpleicons.org/-->
