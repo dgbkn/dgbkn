@@ -25,7 +25,7 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 
 ## Contact me 🔭
 <span>
-   <a href="https://telegram.dog/dgbkn"> <img src="https://simpleicons.vercel.app/telegram/1B4F72" width="10%" > </a>
+   <a href="https://telegram.dog/devbkn"> <img src="https://simpleicons.vercel.app/telegram/1B4F72" width="10%" > </a>
    <a href="https://api.whatsapp.com/send?phone=17865445756"> <img src="https://simpleicons.vercel.app/whatsapp/145A32" width="10%" > </a>
    <a href="https://www.linkedin.com/in/dev-goyal-041512203/"> <img src="https://simpleicons.vercel.app/linkedin/0A66C2" width="10%" > </a>
    <a href="https://twitter.com/devgbkn"> <img src="https://simpleicons.vercel.app/twitter/0F9AFB" width="10%" > </a>
