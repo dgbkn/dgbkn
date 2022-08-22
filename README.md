@@ -78,7 +78,7 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 
 
 <h1 align="center">Hi 👋, I'm Dev Goyal</h1>
-<h3 align="center">A passionate frontend,backend developer and tech enthusiast from India</h3>
+<h3 align="center">A passionate tech developer and tech enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgbkn&label=Profile%20views&color=0e75b6&style=flat" alt="dgbkn" /> </p>
 
