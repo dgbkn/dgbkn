@@ -34,47 +34,7 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 <br>
 <br>
 
-## 📊 Github stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&theme=radical" width= "60%" height="400px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgbkn&layout=compact" width= "60%" height="400px">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dgbkn&date_format=j%20M%5B%20Y%5D" width= "60%" height="400px">
 
-<br>
-
-</p>
-
-<!--browse icons: https://simpleicons.org/-->
-<!--use icons: https://simpleicons.vercel.app/[icon name]/[color]-->
-<!--get hex easily: https://github.com/simple-icons/simple-icons/blob/develop/_data/simple-icons.json-->
-
-### ⚙️ Languages & Frameworks
-<span>
-    <img src="https://simpleicons.vercel.app/python/3776AB" width="10%" >
-    <img src="https://simpleicons.vercel.app/nodedotjs/339933" width="10%" >
-    <img src="https://simpleicons.vercel.app/javascript/F7DF1E" width="10%" >
-    <img src="https://simpleicons.vercel.app/css3/1572B6" width="10%" >
-    <img src="https://simpleicons.vercel.app/html5/E34F26" width="10%" >
-    <img src="https://simpleicons.vercel.app/php/3776AB" width="10%" >
-    <img src="https://simpleicons.vercel.app/phpmyadmin/24292F" width="10%" >
-</span>
-
-<br>
-
-### 🔨Tools
-<span>
-    <img src="https://simpleicons.vercel.app/adobe/FF0000" width="10%" >
-    <img src="https://simpleicons.vercel.app/blender/F5792A" width="10%" >
-    <img src="https://simpleicons.vercel.app/jetbrains/000000" width="10%" >
-    <img src="https://simpleicons.vercel.app/visualstudiocode/007ACC" width="10%" >
-    <img src="https://simpleicons.vercel.app/git/F05032" width="10%" >
-    <img src="https://simpleicons.vercel.app/github/00000#gh-dark-mode-only" width="10%" >
-    <img src="https://simpleicons.vercel.app/docker/2496ED" width="10%" >
-</span>
-
-<br>
-<br>
-<br>
 
 
 <h1 align="center">Hi 👋, I'm Dev Goyal</h1>
@@ -103,4 +63,4 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dgbkn&" alt="dgbkn" /></p>
 
 
-<h1 align="center">Thanks for reading 💖</h1>
+<h5 align="center">Thanks for reading 💖</h5>
