@@ -50,8 +50,8 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dgbkn&" alt="dgbkn" /></p>
 
 <p align="center">
- <img width="50%" src="https://user-images.githubusercontent.com/65810521/185930405-7f3dea08-2509-4a85-b68f-d3524b69ff2b.png" alt="dgbkn" />
-<center><h2><b>"Work like a Samurai,Making no voice,let the success be your noice."</b></h2></center>
+ <img width="100px" src="https://user-images.githubusercontent.com/65810521/185930405-7f3dea08-2509-4a85-b68f-d3524b69ff2b.png" alt="dgbkn" />
+<center><h2><b>"Work like a Samurai,Making no voice,let your work be your noice."</b></h2></center>
 </p>
 
 <h5 align="center">Thanks for reading 💖</h5>
