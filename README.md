@@ -13,7 +13,7 @@
 
 
 # Hi `Mr./Mrs.` <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
-My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
+My name is <b>Dev Goyal</b>, thanks for taking the time to read my github profile! 😊
 
 ## About Me 👒
 💬 ੭ㆍI love talking with people so feel free to contact me 😜
