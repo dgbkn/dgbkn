@@ -25,10 +25,10 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 
 ## Contact me 🔭
 <span>
-   <a href="https://telegram.dog/devbkn"> <img src="https://simpleicons.vercel.app/telegram/1B4F72" width="10%" > </a>
-   <a href="https://api.whatsapp.com/send?phone=17865445756"> <img src="https://simpleicons.vercel.app/whatsapp/145A32" width="10%" > </a>
-   <a href="https://www.linkedin.com/in/dev-goyal-041512203/"> <img src="https://simpleicons.vercel.app/linkedin/0A66C2" width="10%" > </a>
-   <a href="https://twitter.com/devgbkn"> <img src="https://simpleicons.vercel.app/twitter/0F9AFB" width="10%" > </a>
+   <a href="https://telegram.dog/devbkn"> <img src="https://simpleicons.vercel.app/telegram/1B4F72" width="10%" height="50px" > </a>
+   <a href="https://api.whatsapp.com/send?phone=17865445756"> <img src="https://simpleicons.vercel.app/whatsapp/145A32" width="10%"  height="50px"> </a>
+   <a href="https://www.linkedin.com/in/dev-goyal-041512203/"> <img src="https://simpleicons.vercel.app/linkedin/0A66C2" width="10%" height="50px" > </a>
+   <a href="https://twitter.com/devgbkn"> <img src="https://simpleicons.vercel.app/twitter/0F9AFB" width="10%"  height="50px"> </a>
 </span>
 
 <br>
@@ -36,9 +36,9 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 
 ## 📊 Github stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&theme=radical" width= "80%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgbkn&layout=compact" width= "80%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dgbkn&date_format=j%20M%5B%20Y%5D" width= "100%">
+<img src="https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&theme=radical" width= "80%" height="400px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgbkn&layout=compact" width= "80%" height="400px">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dgbkn&date_format=j%20M%5B%20Y%5D" width= "100%" height="400px">
 
 <br>
 
