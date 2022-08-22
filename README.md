@@ -25,11 +25,11 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/devgbkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devgbkn" height="30" width="40" /></a>
+    <a href="https://telegram.dog/devbkn" target="blank"><img align="center" src="https://simpleicons.vercel.app/telegram/1B4F72" alt="dev goyal" height="30" width="40" /></a>
 <a href="https://api.whatsapp.com/send?phone=17865445756" target="blank"><img align="center" src="https://simpleicons.vercel.app/whatsapp/145A32" alt="whatsapp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dev-goyal-041512203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-goyal-041512203" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dev goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dev goyal" height="30" width="40" /></a>
-<a href="https://telegram.dog/devbkn" target="blank"><img align="center" src="https://simpleicons.vercel.app/telegram/1B4F72" alt="dev goyal" height="30" width="40" /></a>
+<a href="https://twitter.com/devgbkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devgbkn" height="30" width="40" /></a>
 
 </p>
 
