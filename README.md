@@ -22,23 +22,7 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 💫 ੭ㆍI'm love Nature
 <br>
 
-
-## Contact me 🔭
-<span>
-   <a href="https://telegram.dog/devbkn"> <img src="https://simpleicons.vercel.app/telegram/1B4F72" width="10%" height="50px" > </a>
-   <a href="https://api.whatsapp.com/send?phone=17865445756"> <img src="https://simpleicons.vercel.app/whatsapp/145A32" width="10%"  height="50px"> </a>
-   <a href="https://www.linkedin.com/in/dev-goyal-041512203/"> <img src="https://simpleicons.vercel.app/linkedin/0A66C2" width="10%" height="50px" > </a>
-   <a href="https://twitter.com/devgbkn"> <img src="https://simpleicons.vercel.app/twitter/0F9AFB" width="10%"  height="50px"> </a>
-</span>
-
 <br>
-<br>
-
-
-
-
-<h1 align="center">Hi 👋, I'm Dev Goyal</h1>
-<h3 align="center">A passionate tech developer and tech enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgbkn&label=Profile%20views&color=0e75b6&style=flat" alt="dgbkn" /> </p>
 
@@ -52,6 +36,8 @@ My name is Dev Goyal, thanks for taking the time to read my github profile! 😊
 <a href="https://api.whatsapp.com/send?phone=17865445756" target="blank"><img align="center" src="https://simpleicons.vercel.app/whatsapp/145A32" alt="whatsapp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dev-goyal-041512203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-goyal-041512203" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dev goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dev goyal" height="30" width="40" /></a>
+<a href="https://telegram.dog/devbkn" target="blank"><img align="center" src="https://simpleicons.vercel.app/telegram/1B4F72" alt="dev goyal" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
