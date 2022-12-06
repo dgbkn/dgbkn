@@ -3,7 +3,7 @@
 <a href="https://newflixy.web.app">
     <img src="https://i.imgur.com/PqoavY9.gif" width= "30%">
     </a>
-    ![octocat](https://user-images.githubusercontent.com/65810521/205821615-a695c1cd-8493-4ca1-90fd-91cb028eaba7.png)
+        <img src="https://user-images.githubusercontent.com/65810521/205821615-a695c1cd-8493-4ca1-90fd-91cb028eaba7.png" width= "30%">
 
     </p>
     <br>
