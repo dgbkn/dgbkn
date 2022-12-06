@@ -10,7 +10,7 @@ My name is <b>Dev Goyal</b>, thanks for taking the time to read my github profil
 <a href="https://newflixy.web.app">
     <img src="https://i.imgur.com/PqoavY9.gif" width= "30%">
     </a>
-          <a href="https://thetorflix.vercel.app"> <img width="30%" src="https://user-images.githubusercontent.com/65810521/205823737-ab559791-4c09-49c8-a815-07a7c4e13c57.png"></a>
+
           
 </p>
     <br>
