@@ -105,7 +105,7 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.thaper.edu)** pu
 
 
 
-<h4 align="center">Thanks for reading 💖</h4>
+<h3 align="center">Thanks for reading 💖</h3>
 
 <p align="center">
 <a href="https://thetorflix.vercel.app"> <img width="30%" src="https://user-images.githubusercontent.com/65810521/205823737-ab559791-4c09-49c8-a815-07a7c4e13c57.png"></a></p>
