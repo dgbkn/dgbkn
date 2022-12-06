@@ -94,7 +94,7 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.thaper.edu)** pu
 
 
 <p align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dgbkn&theme=github_dark">
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dgbkn&theme=github_dark">
 
 </p>
 
