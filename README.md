@@ -1,14 +1,18 @@
 <p align="center">
     <a href="https://app.daily.dev/dgbkn"><img src="https://api.daily.dev/devcards/d919498fffbf4f53b1f222095885b332.png?r=yj6" width="300" alt="_dev_goyal__'s Dev Card"/></a>
+    <div>
 <a href="https://newflixy.web.app">
     <img src="https://i.imgur.com/PqoavY9.gif" width= "30%">
     </a>
+    
+          <a href="https://thetorflix.vercel.app"> <img width="30%" src="https://user-images.githubusercontent.com/65810521/205821615-a695c1cd-8493-4ca1-90fd-91cb028eaba7.png"></a>
+        </div>
+
     </p>
     <br>
     <p align="center">
     <a href="https://github.com/dgbkn"> <img src="https://img.shields.io/github/followers/dgbkn?label=Follow&logo=github&color=7289da&style=for-the-badge"></a>
 <!--        <a href="https://discordapp.com/channels/@me/SomeGumtank#1956"> <img src="https://dcbadge.vercel.app/api/shield/1015897320606421014?theme=default-inverted"></a> -->
-      <a href="https://thetorflix.vercel.app"> <img src="https://user-images.githubusercontent.com/65810521/205821615-a695c1cd-8493-4ca1-90fd-91cb028eaba7.png"></a>
     
     
  <a href="https://allsites.pages.dev"> <img src="https://img.shields.io/badge/My%20Works-passing-brightgreen"></a>
