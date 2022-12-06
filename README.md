@@ -42,6 +42,7 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.vit.ac.in)** pur
   - 🖼 Javascript
   - 🛠 DIY Projects
   - 🤖 Automation
+  - ‍☠️ Pirating :)
 - 📝 I write technical blogs and articles
 - 🤔 I’m looking for help with ML
 - 💬 Ask me about tricks, Web Dev, App Dev..
