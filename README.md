@@ -60,7 +60,7 @@ My name is <b>Dev Goyal</b>, thanks for taking the time to read my github profil
 
 <p align="center"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgbkn&show_icons=true&locale=en&layout=compact" alt="dgbkn" /><img width="55%" src="https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&locale=en" alt="dgbkn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dgbkn&" alt="dgbkn" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dgbkn&" alt="dgbkn" /></p>
 
 <p align="center">
  <img width="300px" src="https://user-images.githubusercontent.com/65810521/185932179-acfa2ec4-d376-48b4-ae25-62477129f16d.png" alt="dgbkn" />
