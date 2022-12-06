@@ -61,6 +61,6 @@ My name is <b>Dev Goyal</b>, thanks for taking the time to read my github profil
 <center><h2><b>"Work like a Samurai,Making no voice,let your work be your noice."</b></h2></center>
 </p>
 
-
+<a href="https://app.daily.dev/dgbkn"><img src="https://api.daily.dev/devcards/d919498fffbf4f53b1f222095885b332.png?r=yj6" width="400" alt="_dev_goyal__'s Dev Card"/></a>
 
 <h4 align="center">Thanks for reading 💖</h4>
