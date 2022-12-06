@@ -45,7 +45,7 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.vit.ac.in)** pur
 - 📝 I write technical blogs and articles
 - 🤔 I’m looking for help with ML
 - 💬 Ask me about tricks, Web Dev, App Dev..
-- 📙 Check out my [Resume](https://www.linkedin.com/in/devgoyal/)
+- 📙 Check out my [Resume](https://www.linkedin.com/in/dev-goyal-041512203//)
 - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
   
