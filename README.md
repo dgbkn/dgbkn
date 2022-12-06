@@ -38,7 +38,7 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.vit.ac.in)** pur
 <img width="490" height="270" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Web Developement Project
+  - 📊 Web Developement Projects
   - 🖼 Javascript
   - 🛠 DIY Projects
   - 🤖 Automation
