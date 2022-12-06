@@ -1,5 +1,5 @@
 
-# Hi `Mr./Mrs.` <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
+# Hi `There` <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
 My name is <b>Dev Goyal</b>, thanks for taking the time to read my github profile! 😊
 
 
