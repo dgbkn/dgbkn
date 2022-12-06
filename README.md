@@ -1,5 +1,5 @@
-<p >
-    <a href="https://app.daily.dev/dgbkn"><img src="https://api.daily.dev/devcards/d919498fffbf4f53b1f222095885b332.png?r=yj6" width="30%" alt="_dev_goyal__'s Dev Card"/></a>
+<p align="center">
+    <!-- <a href="https://app.daily.dev/dgbkn"><img src="https://api.daily.dev/devcards/d919498fffbf4f53b1f222095885b332.png?r=yj6" width="30%" alt="_dev_goyal__'s Dev Card"/></a> -->
     
     
 <a href="https://newflixy.web.app">
