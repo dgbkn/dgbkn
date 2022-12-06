@@ -35,20 +35,18 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on NLP Project
-- 🌱 I’m currently learning Java ☕
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+
+<img width="490" height="270" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
-  - 🤖 Robotics
+  - 🖼 Javascript
+  - 🛠 DIY Projects
+  - 🤖 Automation
 - 📝 I write technical blogs and articles
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
-- 🤔 I’m looking for help with Devops
-- 💬 Ask me about Python, ML, CV, Raspi
-- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
+- 🤔 I’m looking for help with ML
+- 💬 Ask me about tricks, Web Dev, App Dev..
+- 📙 Check out my [Resume](https://www.linkedin.com/in/devgoyal/)
 - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
   
@@ -59,15 +57,7 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 # Hi `Mr./Mrs.` <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
 My name is <b>Dev Goyal</b>, thanks for taking the time to read my github profile! 😊
 
-## About Me 👒
-💬 ੭ㆍI love talking with people so feel free to contact me 😜
-<br>
-🌸 ੭ㆍTECH is my first Love
-<br>
-🪐 ੭ㆍI'm Exploring New Things like Artifical Intellegence,WEB3,BlockChain
-<br>
-💫 ੭ㆍI'm love Nature
-<br>
+
 
 
 <h3 align="left">Connect with me:</h3>
