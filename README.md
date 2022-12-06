@@ -98,10 +98,11 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.thaper.edu)** pu
 
 </p>
 
-<p align="center">
- <img width="300px" src="https://user-images.githubusercontent.com/65810521/185932179-acfa2ec4-d376-48b4-ae25-62477129f16d.png" alt="dgbkn" />
-<center><h2><b>"Work like a Samurai,Making no voice,let your work be your noice."</b></h2></center>
-</p>
+
+
+<img width="490" height="270" src="https://user-images.githubusercontent.com/65810521/185932179-acfa2ec4-d376-48b4-ae25-62477129f16d.png" align=left>
+
+<h2><b>"Work like a Samurai,Making no voice,let your work be your noice."</b></h2>
 
 
 
