@@ -3,7 +3,7 @@
 <a href="https://newflixy.web.app">
     <img src="https://i.imgur.com/PqoavY9.gif" width= "30%">
     </a>
-          <a href="https://thetorflix.vercel.app"> <img width="30%" src="https://user-images.githubusercontent.com/65810521/205821615-a695c1cd-8493-4ca1-90fd-91cb028eaba7.png"></a>
+          <a href="https://thetorflix.vercel.app"> <img width="30%" src="https://user-images.githubusercontent.com/65810521/205823737-ab559791-4c09-49c8-a815-07a7c4e13c57.png"></a>
     </p>
     <br>
     <p align="center">
