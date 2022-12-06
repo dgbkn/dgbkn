@@ -2,12 +2,10 @@
     <a href="https://app.daily.dev/dgbkn"><img src="https://api.daily.dev/devcards/d919498fffbf4f53b1f222095885b332.png?r=yj6" width="30%" alt="_dev_goyal__'s Dev Card"/></a>
     
     
-<p align="left">
 <a href="https://newflixy.web.app">
     <img src="https://i.imgur.com/PqoavY9.gif" width= "30%">
     </a>
           <a href="https://thetorflix.vercel.app"> <img width="30%" src="https://user-images.githubusercontent.com/65810521/205823737-ab559791-4c09-49c8-a815-07a7c4e13c57.png"></a>
-</p>                    
           
 </p>
     <br>
