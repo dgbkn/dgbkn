@@ -61,7 +61,9 @@ My name is <b>Dev Goyal</b>, thanks for taking the time to read my github profil
 <p align="center"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgbkn&layout=compact&theme=radical" alt="dgbkn" /><img width="55%" src="https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&include_all_commits=true&theme=radical" alt="dgbkn" /></p>
 
 
-<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=dgbkn&theme=radical" alt="dgbkn" /><img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=dgbkn&theme=radical" alt="dgbkn" /></p>
+<p align="center"><img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dgbkn&theme=github_dark" alt="dgbkn" /><img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=dgbkn&theme=radical" alt="dgbkn" /></p>
+
+
 
 
 <p align="center">
