@@ -32,7 +32,7 @@ I am <b>Dev Goyal</b>, thanks for taking the time to read my github profile! �
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@Thapar University](https://www.thaper.edu)** pursuing ENC. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an **Undergrad Student🎓 [@Thapar University](https://www.thaper.edu)** pursuing Computer Enginnering. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 
 
