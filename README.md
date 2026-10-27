@@ -11,8 +11,9 @@ Tech enthusiast who loves building useful products and learning new tech.
 
 <br><br>
 
-<a href="https://github.com/dgbkn"><img src="https://img.shields.io/github/followers/dgbkn?label=Follow&logo=github&color=7289da&style=for-the-badge" alt="Followers"></a>
-<a href="https://twitter.com/devgbkn"><img src="https://img.shields.io/twitter/follow/devgbkn?style=for-the-badge" alt="Twitter follow"></a>
+<a href="https://github.com/dgbkn"><img src="assets/badges/follow-github.svg" alt="Follow @dgbkn on GitHub" height="28"></a>
+&nbsp;
+<a href="https://twitter.com/devgbkn"><img src="assets/badges/follow-twitter.svg" alt="Follow @devgbkn on X" height="28"></a>
 
 </div>
 
@@ -93,23 +94,28 @@ I'm an **undergrad student 🎓 at [Thapar University](https://www.thapar.edu)**
 
 ## 📊 GitHub stats
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgbkn&layout=compact&theme=radical" alt="Top languages"/>
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub stats"/>
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub stats" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgbkn&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com/?user=dgbkn&theme=radical&hide_border=true" alt="Streak stats" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dgbkn&theme=github_dark" alt="Productive time" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dgbkn&theme=github_dark" alt="Productive time"/>
-  <img width="55%" src="https://streak-stats.demolab.com/?user=dgbkn&theme=radical" alt="Streak stats"/>
-</p>
-
-<p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dgbkn&theme=github_dark" alt="Profile details"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dgbkn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=dgbkn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</div>
 
 ## 📬 Connect with me
 
