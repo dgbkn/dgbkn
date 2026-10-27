@@ -2,8 +2,8 @@
 
 # Hi there, I'm Dev Goyal <img src="assets/img/wave.gif" width="40" alt="wave">
 
-**Undergrad Computer Engineering student @ [Thapar University](https://www.thapar.edu)**
-Tech enthusiast who loves building useful products and learning new tech.
+**Computer Engineering undergraduate at [Thapar University](https://www.thapar.edu)**
+I build web and mobile products and automation tools.
 
 <a href="https://newflixy.web.app">
   <img src="assets/img/banner.gif" width="40%" alt="Banner">
@@ -19,23 +19,24 @@ Tech enthusiast who loves building useful products and learning new tech.
 
 ---
 
-## A little about me <img src="assets/img/about.gif" width="50" alt="">
+## About <img src="assets/img/about.gif" width="50" alt="">
 
-I'm an **undergrad student 🎓 at [Thapar University](https://www.thapar.edu)** pursuing Computer Engineering. I'm a **tech enthusiast 💻** passionate about learning and working with new tech, and I love building interesting products that serve a real purpose.
+I am an undergraduate student at [Thapar University](https://www.thapar.edu) pursuing Computer Engineering. I enjoy learning new technology and building products that solve real problems, from web platforms and mobile apps to automation and backend services.
 
-## <img src="assets/img/interests.gif" width="30" alt=""> What I'm into
+## <img src="assets/img/interests.gif" width="30" alt=""> Interests
 
-- 📊 Web development projects
-- 🖼 JavaScript
-- 🛠 DIY projects
-- 🤖 Automation
-- 📝 Writing technical blogs and articles
-- 🤔 Looking for help with ML
-- 💬 Ask me about tricks, web dev, and app dev
-- 📙 Check out my [resume](https://www.linkedin.com/in/dev-goyal-041512203/)
-- 🎉 Fun fact: I ❤️ astrophysics and SpaceX 🚀 and watch a lot of sci-fi movies 🎬
+- Web development and full-stack projects
+- JavaScript and the Node.js ecosystem
+- Mobile development with Flutter and React Native
+- Automation and bots
+- DIY and hardware projects
+- Technical writing: blogs and articles
+- Machine learning (currently learning; open to guidance)
+- Outside of code: astrophysics, SpaceX launches and sci-fi films
 
-## 🧰 Languages and tools
+Ask me about web development, app development, or automation. My [resume is on LinkedIn](https://www.linkedin.com/in/dev-goyal-041512203/).
+
+## Languages and Tools
 
 <p align="left">
   <img src="assets/icons/android.svg" alt="Android" title="Android" width="40" height="40"/>
@@ -80,7 +81,7 @@ I'm an **undergrad student 🎓 at [Thapar University](https://www.thapar.edu)**
   <img src="assets/icons/unity.svg" alt="Unity" title="Unity" width="40" height="40"/>
 </p>
 
-## 🖥️ My dev setup
+## Development Setup
 
 <p align="left">
   <img src="assets/icons/windows.svg" alt="Windows" title="Windows" width="40" height="40"/>
@@ -92,32 +93,17 @@ I'm an **undergrad student 🎓 at [Thapar University](https://www.thapar.edu)**
   <img src="assets/icons/spotify.svg" alt="Spotify" title="Spotify" width="40" height="40"/>
 </p>
 
-## 📊 GitHub stats
+## GitHub Statistics
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=dgbkn&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub stats" width="100%"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgbkn&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=dgbkn&theme=radical&hide_border=true" alt="Streak stats" width="100%"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dgbkn&theme=github_dark" alt="Productive time" width="100%"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/stats/overview.svg" width="49%" alt="GitHub overview"/>
+  <img src="assets/stats/languages.svg" width="49%" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="assets/stats/streak.svg" width="98%" alt="Contribution activity"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=dgbkn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</div>
-
-## 📬 Connect with me
+## Connect
 
 <p align="left">
   <a href="https://telegram.dog/devbkn" target="blank"><img align="center" src="assets/icons/social-telegram.svg" alt="Telegram" title="Telegram" height="30" width="40"/></a>
@@ -127,6 +113,7 @@ I'm an **undergrad student 🎓 at [Thapar University](https://www.thapar.edu)**
   <a href="https://twitter.com/devgbkn" target="blank"><img align="center" src="assets/icons/social-twitter.svg" alt="Twitter" title="Twitter" height="30" width="40"/></a>
 </p>
 
+
 ---
 
 <img width="50%" src="assets/img/samurai.png" align="left" alt="">
@@ -135,7 +122,7 @@ I'm an **undergrad student 🎓 at [Thapar University](https://www.thapar.edu)**
 
 <br clear="left">
 
-<h3 align="center">Thanks for reading 💖</h3>
+<h3 align="center">Thank you for visiting</h3>
 
 <p align="center">
   <a href="https://thetorflix.vercel.app"><img width="30%" src="assets/img/torflix.png" alt="Torflix"></a>
